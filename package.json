@@ -1,0 +1,20 @@
+{
+  "name": "feedback-parser",
+  "version": "0.0.1",
+  "description": "feedback parser",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "natural": "^0.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Joe Walsh",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:joewalsh/feedback.git"
+  }
+}
